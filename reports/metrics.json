@@ -1,0 +1,47 @@
+{
+  "project": "Research-to-Production Framework",
+  "data_notice": "Deterministic synthetic classification fixture; model scores are a pipeline demo, not investment alpha.",
+  "metrics": {
+    "dataset_rows": 1200,
+    "feature_count": 18,
+    "data_quality_checks_passed": 24,
+    "data_quality_checks_total": 24,
+    "accuracy_pct": 87.92,
+    "precision_pct": 91.33,
+    "recall_pct": 84.31,
+    "brier_score": 0.094,
+    "model_artifact_sha256_prefix": "e0bfd8a51e411674",
+    "shadow_traffic_error_rate_pct": 0.8,
+    "rollback_readiness": "PASS",
+    "promotion_gate": "candidate accuracy >= baseline and brier <= baseline"
+  },
+  "chart": {
+    "title": "Holdout accuracy across release stages",
+    "x_label": "Release checkpoint",
+    "y_label": "Accuracy (%)",
+    "series": [
+      {
+        "name": "Accuracy",
+        "values": [
+          84.42,
+          87.92,
+          87.12
+        ]
+      }
+    ]
+  },
+  "flow": [
+    "Versioned data",
+    "Feature build",
+    "Train & evaluate",
+    "Shadow deploy",
+    "Promote / rollback"
+  ],
+  "flow_values": [
+    0.4,
+    1.8,
+    3.6,
+    2.4,
+    0.9
+  ]
+}

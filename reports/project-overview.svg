@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+<rect width="1280" height="800" fill="#ffffff"/>
+<text x="72.0" y="63.0" font-family="Inter,Arial,sans-serif" font-size="31" font-weight="700" fill="#0f172a" text-anchor="start">Research-to-Production Framework</text>
+<text x="73.0" y="96.0" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#64748b" text-anchor="start">QUANT DEVELOPER  /  SYNTHETIC ENGINEERING DEMO</text>
+<text x="1190.0" y="96.0" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" fill="#0f766e" text-anchor="end">REPRODUCIBLE SAMPLE</text>
+<rect x="72" y="126" width="270" height="112" rx="13" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="89.0" y="157.0" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#64748b" text-anchor="start">Holdout accuracy</text>
+<text x="89.0" y="202.0" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700" fill="#0f172a" text-anchor="start">87.92</text>
+<rect x="356" y="126" width="270" height="112" rx="13" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="373.0" y="157.0" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#64748b" text-anchor="start">Precision</text>
+<text x="373.0" y="202.0" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700" fill="#0f172a" text-anchor="start">91.33</text>
+<rect x="640" y="126" width="270" height="112" rx="13" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="657.0" y="157.0" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#64748b" text-anchor="start">Brier score</text>
+<text x="657.0" y="202.0" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700" fill="#0f172a" text-anchor="start">0.094</text>
+<rect x="924" y="126" width="270" height="112" rx="13" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="941.0" y="157.0" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#64748b" text-anchor="start">Data checks passed</text>
+<text x="941.0" y="202.0" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700" fill="#0f172a" text-anchor="start">24</text>
+<text x="76.0" y="288.0" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="700" fill="#0f172a" text-anchor="start">Holdout accuracy across release stages</text>
+<text x="1190.0" y="288.0" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#64748b" text-anchor="end">Accuracy (%)</text>
+<line x1="110" y1="330.0" x2="1190" y2="330.0" stroke="#e2e8f0"/>
+<text x="98.0" y="335.0" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="end">88.3</text>
+<line x1="110" y1="412.5" x2="1190" y2="412.5" stroke="#e2e8f0"/>
+<text x="98.0" y="417.5" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="end">87.3</text>
+<line x1="110" y1="495.0" x2="1190" y2="495.0" stroke="#e2e8f0"/>
+<text x="98.0" y="500.0" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="end">86.2</text>
+<line x1="110" y1="577.5" x2="1190" y2="577.5" stroke="#e2e8f0"/>
+<text x="98.0" y="582.5" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="end">85.1</text>
+<line x1="110" y1="660.0" x2="1190" y2="660.0" stroke="#e2e8f0"/>
+<text x="98.0" y="665.0" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="end">84</text>
+<line x1="110" y1="330" x2="110" y2="660" stroke="#94a3b8"/>
+<line x1="110" y1="660" x2="1190" y2="660" stroke="#94a3b8"/>
+<polyline points="110.0,628.1 650.0,361.9 1190.0,422.8" fill="none" stroke="#2563eb" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="110" y1="698" x2="135" y2="698" stroke="#2563eb" stroke-width="4"/>
+<text x="144.0" y="703.0" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#334155" text-anchor="start">Accuracy</text>
+<text x="650.0" y="732.0" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#64748b" text-anchor="middle">Release checkpoint</text>
+<line x1="72" y1="755" x2="1208" y2="755" stroke="#e2e8f0"/>
+<text x="72.0" y="781.0" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="start">Deterministic synthetic classification fixture; model scores are a pipeline demo, not investment alpha.</text>
+</svg>
